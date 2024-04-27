@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "78247bf649aebdec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3f7544a1cd0856d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ec45d1190fa2d7c8",
         "type": "tabs",
         "children": [
@@ -29,8 +11,12 @@
             "id": "01403984e832e71c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f7544a1cd0856d",
+  "active": "01403984e832e71c",
   "lastOpenFiles": [
-    "Welcome.md"
+    "sync.ps1",
+    "Welcome.md",
+    "README.md",
+    "LICENSE",
+    "create a link.md"
   ]
 }
