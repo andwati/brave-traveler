@@ -10,7 +10,6 @@ if ($IsClean) {
 } else {
     $CommitMessage = "$(Get-Date -Format 'dddd - yyyy-MM-dd HH:mm:ss')"
 
-
     git add .
     git commit -m $CommitMessage
 
