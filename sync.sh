@@ -16,5 +16,5 @@ else
   git add .
   git commit -m "$commit_message"
 
-  git push
+  git push origin linuxsync
 fi
