@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Network/Apollo - Android.md",
-                "mode": "source",
+                "file": "posts/subresource-integrity.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Network/Apollo - Android.md",
+                "file": "posts/subresource-integrity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Network/Apollo - Android.md",
+                "file": "posts/subresource-integrity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Network/Apollo - Android.md"
+                "file": "posts/subresource-integrity.md"
               }
             }
           }
@@ -148,11 +148,24 @@
   },
   "active": "74350e597e26f9f3",
   "lastOpenFiles": [
+    "posts/utterances-comments.md",
+    "posts/subresource-integrity.md",
+    "posts/semantic-version-and-conventional-commits.md",
+    "posts/obsidian-sync.md",
+    "posts/javascript-exporting-modules.md",
+    "posts/integrating-netlify.md",
+    "posts/install-postgresql-15-on-arch-manjaro-garuda-linux.md",
+    "posts/hello-world.md",
+    "posts/generate-django-secret-key.md",
+    "posts/file-over-app.md",
+    "posts/a-fresh-coat-of-paint.md",
+    "posts/_index.md",
+    "Android/Network/Apollo - Android.md",
+    "posts",
     "Android/Service/Advertisement",
     "Android/Service/Firebase",
     "Android/Service/Google",
     "Android/Network/Ktor.md",
-    "Android/Network/Apollo - Android.md",
     "Android/Network/Retrofit.md",
     "Android/Network/Okio.md",
     "Android/Network/OkHttp.md",
@@ -167,22 +180,9 @@
     "Android/Image Loading/Coil.md",
     "Android/Image Loading/Fresco.md",
     "Android/Image Loading/Glide.md",
-    "Android/Design Patterns/Dependency Injection.md",
-    "Android/Design Patterns/Factory Pattern.md",
-    "Android/Design Patterns/Builder Pattern.md",
-    "Android/Compose UI/Gestures.md",
-    "Android/Compose UI/Animation.md",
-    "Android/Compose UI/Graphics.md",
-    "Android/Compose UI/Text.md",
-    "Android/Compose UI/Image.md",
-    "Android/Compose UI/List.md",
-    "Android/Compose UI/Layout.md",
-    "Android/Compose UI/Modifier.md",
     "Android/Asynchronous/Untitled",
     "Android/App Architecture/Architecture Components/Data Layer",
     "Android/App Architecture/Architecture Components/UI Layer",
-    "Android/App Architecture/Architecture Components",
-    "Android/App Architecture/Navigation",
-    "Android/App Architecture/App Entry Points"
+    "Android/App Architecture/Architecture Components"
   ]
 }
