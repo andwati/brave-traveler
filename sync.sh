@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folder_path="~/GitHub/brave-traveler"
+folder_path=~/GitHub/brave-traveler
 
 cd "$folder_path"
 
