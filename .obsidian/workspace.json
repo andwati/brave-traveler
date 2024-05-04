@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec45d1190fa2d7c8",
+        "id": "0399306c366c20c4",
         "type": "tabs",
         "children": [
           {
-            "id": "01403984e832e71c",
+            "id": "1907d2c625e78240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Android/Android Platform Architecture/System Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Android/Android Platform Architecture/System Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Android/Android Platform Architecture/System Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Android/Android Platform Architecture/System Apps.md"
               }
             }
           }
@@ -146,12 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01403984e832e71c",
+  "active": "1907d2c625e78240",
   "lastOpenFiles": [
-    "sync.ps1",
-    "Welcome.md",
+    "Android/Android Platform Architecture/Java API Framework.md",
+    "Android/Android Platform Architecture/System Apps.md",
+    "Android/Android Platform Architecture/Native Libraries.md",
+    "Android/Android Platform Architecture/Android Runtime.md",
+    "Android/Android Platform Architecture/Hardware Abstraction Layer.md",
+    "Android/Android Platform Architecture/The Linux Kernel.md",
+    "Android/Application Fundamentals/Languages/Kotlin.md",
+    "Android/Android Operating System/File Permissions.md",
+    "Android/Android Operating System/Process Management.md",
+    "Android/Android Operating System/Resource Isolation.md",
+    "Android/Android Operating System/Untitled",
+    "Android/Android Operating System/Multi User Linux.md",
+    "Android/Application Fundamentals/Languages/Java.md",
+    "Android/Application Fundamentals/Languages/C++.md",
+    "Android/Application Fundamentals/Android Package/APK.md",
+    "Android/Application Fundamentals/Android Package/AAB.md",
+    "Android/Application Fundamentals/Android Package",
     "README.md",
-    "LICENSE",
+    "Android/Application Fundamentals/Languages",
+    "Android/QA and App Publishing",
+    "Android/CI and CD",
+    "Android/Code Analysis and Test",
+    "Android/Service",
+    "Android/Compose UI",
+    "Android/User Interface",
+    "Android/Asynchronous",
+    "Welcome.md",
     "create a link.md"
   ]
 }

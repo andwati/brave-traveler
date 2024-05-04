@@ -2,19 +2,18 @@
 
 folder_path=~/GitHub/brave-traveler
 
-cd "$folder_path"
+cd "$folder_path" || exit 1  # Exit with error if folder doesn't exist
 
-clean=$(git diff-index --quiet HEAD -- && git diff-files --quiet)
-
-if [[ $clean -eq 0 ]]
-then
-  echo "Working tree is clean. Skipping commit and pushing changes."
-  git push
+if [[ $(git status --porcelain) ]]; then
+    echo "Staging unstaged files..."
+    git add .
+    commit_message="$(date +'%A, %Y-%m-%d %H:%M:%S')"
+    echo "Committing changes..."
+    git commit -m "$commit_message"
+    echo "Pushing commits..."
+    git push origin linuxsync
 else
-  commit_message="$(date +'%A - %Y-%m-%d %H:%M:%S')"
-
-  git add .
-  git commit -m "$commit_message"
-
-  git push origin linuxsync
+    echo "Working tree is clean, pushing commits..."
+    git push origin linuxsync
+    
 fi
