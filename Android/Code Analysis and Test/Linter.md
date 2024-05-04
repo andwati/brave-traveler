@@ -1,0 +1,3 @@
+# ktlint
+# Detekt
+# Android Lint
