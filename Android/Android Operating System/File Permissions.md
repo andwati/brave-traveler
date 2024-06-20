@@ -1,0 +1,9 @@
+In a UNIX-style environment, filesystem permissions ensure that one user cannot alter or read another user's files. In the case of Android, each application runs as its own user. Unless the developer explicitly shares files with other applications, files created by one application cannot be read or altered by another application.
+
+- **Traditional Model (Limited Access):** Unlike standard Linux systems, user-granular file permissions (read, write, execute) are not directly controllable on Android's internal storage due to security and sandboxing measures. This prevents apps from tampering with critical system files.
+    
+- **App Permissions and Sandboxing:** Android employs a permission-based access control system. Apps declare the permissions they need (e.g., storage access, camera) during installation. The user grants or denies these permissions, and the system restricts app access to specific areas of the storage based on the granted permissions. This sandboxing approach aims to isolate apps from each other and the core system, enhancing security and stability.
+    
+- **Storage Access Framework (SAF):** Introduced in Android 4.4, SAF provides a more secure way for apps to access files. Instead of directly browsing the file system, apps request access to specific files or directories through an intent. The user then selects the data they want to share, granting temporary access. This prevents apps from snooping around the entire storage.
+    
+- **"Manage all files" Permission (Android 11+):** For apps that genuinely need broader storage access (e.g., file managers), the `MANAGE_EXTERNAL_STORAGE` permission can be requested. However, Google Play Store policies restrict its usage due to security concerns. Developers must demonstrate a legitimate need and implement proper isolation mechanisms.

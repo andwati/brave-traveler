@@ -1,0 +1,1 @@
+System apps are pre-installed apps such as email, SNS messaging, calendars, internet browsing, contacts, and more, which are located in the system partition with your ROM. The configuration of the System Apps may vary depending on the mobile phone manufacturer. For more details, you can check out [System Apps](https://developer.android.com/guide/platform#system-apps).

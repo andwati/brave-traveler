@@ -1,0 +1,3 @@
+[The hardware abstraction layer](https://source.android.com/devices/architecture/hal) (HAL) bridges hardware capabilities to the higher-level Java API Framework by defining standard interfaces, allowing you to implement the low-level functionalities without modifying the higher-level systems.
+
+HAL implementations are packaged into modules, which are stored as a shared library (`.so` file) and loaded by the Android system at the appropriate time.

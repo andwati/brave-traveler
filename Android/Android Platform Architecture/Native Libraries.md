@@ -1,0 +1,3 @@
+The Android platform includes a pair of [Native APIs](https://developer.android.com/ndk/guides/stable_apis), which work on top of the [Native Development Kit](https://developer.android.com/ndk/guides) (NDK).
+
+The Native APIs let you manage native activities and access physical device components such as cameras, sensors, graphics, and audio. They are also exposed to the higher-level layers, so you can control the components of the physical device on the Java API framework.
