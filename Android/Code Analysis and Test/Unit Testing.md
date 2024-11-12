@@ -1,3 +1,0 @@
-JUnit
-kluent
-mockk

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9879e162a6959e7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa91938db0ed67c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25286909775ca308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/App Manifest/Application ID and Package Name.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "533cf296267c009e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae42083b88790496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1491df7b99ffceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a73be94cd0f7a17a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c8c34135e119e21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c40ac5e5770b90f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83820b46a8ade78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "398878fd991855fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/App Manifest/Application ID and Package Name.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a12fc78c3f857d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/App Manifest/Application ID and Package Name.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "608feacd2f485d18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b5f0b45c6ea67c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/App Manifest/Application ID and Package Name.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "25286909775ca308",
+  "lastOpenFiles": [
+    "Android/App Components/App Components.md",
+    "Android/App Components/Activity.md",
+    "Android/App Architecture/Architecture Components/UI Layer/Lifecycle.md",
+    "Android/App Architecture/App Entry Points/Activities.md",
+    "Android/App Components/Service.md",
+    "Android/Android Operating System/Resource Isolation.md",
+    "Android/App Components/Content Provider.md",
+    "Android/Android Operating System/Multi User Linux.md",
+    "Android/App Components/Broadcast Receiver.md",
+    "Android/App Manifest/Application ID and Package Name.md",
+    "Android/App Manifest/App Manifest.md",
+    "Android/App Manifest/Package.md",
+    "Android/Android Platform Architecture/Android Runtime.md",
+    "Android/Android Platform Architecture/Hardware Abstraction Layer.md",
+    "Android/Android Platform Architecture/Java API Framework.md",
+    "Android/Android Platform Architecture/Native Libraries.md",
+    "Android/Android Platform Architecture/System Apps.md",
+    "Android/Android Platform Architecture/The Linux Kernel.md",
+    "Android/Android Operating System/Process Management.md",
+    "Multi.md",
+    "().md",
+    "Android/Android Operating System/File Permissions.md",
+    "Android/Android Operating System/Android Operating System Intro.md",
+    "Android/Application Fundamentals/Languages/Kotlin.md",
+    "user-based permissions mode.md",
+    "kotlin",
+    "Android/Asynchronous/RxKotlin.md",
+    "iOS",
+    "Android/Service/Advertisement",
+    "Android/Service/Firebase",
+    "Android/Service/Google",
+    "Android/Local Storage/Shared Preferences",
+    "Android/Local Storage/SQLite",
+    "Android/Asynchronous/Untitled",
+    "Android/App Architecture/Architecture Components/Data Layer",
+    "Android/App Architecture/Architecture Components/UI Layer"
+  ]
+}

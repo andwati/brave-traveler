@@ -1,2 +1,0 @@
-Not directly applicable
-While Android is based on the Linux kernel, it doesn't offer full-fledged multi-user functionality like traditional Linux systems. It provides limited multi-user support for creating separate user profiles with isolated app data and settings. However, these profiles don't run concurrently; only one user can be active at a time. Power users might find this restrictive.

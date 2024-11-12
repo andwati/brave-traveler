@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "9879e162a6959e7e",
+    "id": "56b318a9460e8a0e",
     "type": "split",
     "children": [
       {
-        "id": "fa91938db0ed67c7",
+        "id": "a723428fbf02ea6d",
         "type": "tabs",
         "children": [
           {
-            "id": "25286909775ca308",
+            "id": "28bea5a7a6eb703a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/App Components/App Components.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -25,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "533cf296267c009e",
+    "id": "60f8d6981fe13b01",
     "type": "split",
     "children": [
       {
-        "id": "ae42083b88790496",
+        "id": "6e67fac3491ce1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f1491df7b99ffceb",
+            "id": "0e993d4d9b8c170f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "a73be94cd0f7a17a",
+            "id": "128fcfe0ab7d7dd8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,15 +58,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "8c8c34135e119e21",
+            "id": "80ac38ad66fca32d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -72,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "c40ac5e5770b90f5",
+    "id": "d749e3d4c16f4dee",
     "type": "split",
     "children": [
       {
-        "id": "c83820b46a8ade78",
+        "id": "5f009b8ceb9ca839",
         "type": "tabs",
         "children": [
           {
-            "id": "398878fd991855fe",
+            "id": "daaa45eb7c7610ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/App Components/App Components.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,40 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "3a12fc78c3f857d3",
+            "id": "d10bc95ceb4ca83b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/App Components/App Components.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "608feacd2f485d18",
+            "id": "d60225950910895c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "3b5f0b45c6ea67c9",
+            "id": "b010af88c6974047",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/App Components/App Components.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
         ]
@@ -147,43 +163,43 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "25286909775ca308",
+  "active": "28bea5a7a6eb703a",
   "lastOpenFiles": [
-    "Android/App Components/Activity.md",
-    "Android/App Architecture/Architecture Components/UI Layer/Lifecycle.md",
-    "Android/App Architecture/App Entry Points/Activities.md",
-    "Android/App Components/Service.md",
-    "Android/App Components/App Components.md",
-    "Android/Android Operating System/Resource Isolation.md",
-    "Android/App Components/Content Provider.md",
-    "Android/Android Operating System/Multi User Linux.md",
-    "Android/App Components/Broadcast Receiver.md",
     "Android/App Manifest/Application ID and Package Name.md",
-    "Android/App Manifest/App Manifest.md",
-    "Android/App Manifest/Package.md",
-    "Android/Android Platform Architecture/Android Runtime.md",
-    "Android/Android Platform Architecture/Hardware Abstraction Layer.md",
-    "Android/Android Platform Architecture/Java API Framework.md",
-    "Android/Android Platform Architecture/Native Libraries.md",
-    "Android/Android Platform Architecture/System Apps.md",
-    "Android/Android Platform Architecture/The Linux Kernel.md",
     "Android/Android Operating System/Process Management.md",
-    "Multi.md",
-    "().md",
+    "Android/App Components/Activity.md",
+    "Android/App Components/Service.md",
+    "Android/Android Platform Architecture/System Apps.md",
+    "Android/App Components/Service.md.partial",
+    "Android/App Components/Activity.md.partial",
+    "Android/App Manifest/Application ID and Package Name.md.partial",
+    "Android/App Manifest",
+    "Android/Android Platform Architecture/System Apps.md.partial",
+    "Android/Android Operating System/Process Management.md.partial",
     "Android/Android Operating System/File Permissions.md",
-    "Android/Android Operating System/Android Operating System Intro.md",
-    "Android/Application Fundamentals/Languages/Kotlin.md",
-    "user-based permissions mode.md",
-    "kotlin",
-    "Android/Asynchronous/RxKotlin.md",
-    "iOS",
-    "Android/Service/Advertisement",
-    "Android/Service/Firebase",
-    "Android/Service/Google",
-    "Android/Local Storage/Shared Preferences",
-    "Android/Local Storage/SQLite",
-    "Android/Asynchronous/Untitled",
-    "Android/App Architecture/Architecture Components/Data Layer",
-    "Android/App Architecture/Architecture Components/UI Layer"
+    "Android/Android Platform Architecture/Hardware Abstraction Layer.md",
+    "Android/Android Operating System/Multi User Linux.md",
+    "Android/Android Operating System/Resource Isolation.md",
+    "Android/Android Platform Architecture/Java API Framework.md",
+    "Android/Android Platform Architecture/Android Runtime.md",
+    "Android/Android Platform Architecture/Native Libraries.md",
+    "Android/Android Platform Architecture/The Linux Kernel.md",
+    "Android/Android Operating System/File Permissions.md.partial",
+    "Android/Android Operating System/Resource Isolation.md.partial",
+    "Android/Android Operating System/Multi User Linux.md.partial",
+    "Android/Android Platform Architecture/The Linux Kernel.md.partial",
+    "Android/Architecture/Clean Architecture.md",
+    "Android/Architecture/Model-View-Intent(MVI).md",
+    "Android/Architecture/Model-View-Viewmodel (MVVM).md",
+    "Android/Architecture/Model-View-Presenter(MVP).md",
+    "Android/App Components/Content Provider.md",
+    "Android/App Components/Intent.md",
+    "Android/App Components/Broadcast Receiver.md",
+    "Android/Architecture/Model-View-Controller(MVC).md",
+    "Android/App Architecture/App Startup.md",
+    "Android/App Architecture/Architecture Components/UI Layer/Data Binding.md",
+    "Android/App Architecture/Architecture Components/UI Layer/Lifecycle.md",
+    "Android/App Architecture/Architecture Components/UI Layer/View Binding.md",
+    "Android/App Architecture/Architecture Components/Data Layer/Work Manager.md"
   ]
 }

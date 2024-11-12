@@ -1,3 +1,0 @@
-Roboelectric
-Espresso
-kaspresso
